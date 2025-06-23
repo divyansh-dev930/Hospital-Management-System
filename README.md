@@ -14,7 +14,7 @@ Responsive Design – Mobile-friendly layout for accessibility across devices.
 Role-Based Navigation – Tailored access for patients, doctors, and admins.
 
 🛠 Tech Stack
-HTML5, CSS3, JavaScript
+HTML5, CSS3, PHP
 
 React.js (or replace with your chosen framework)
 
